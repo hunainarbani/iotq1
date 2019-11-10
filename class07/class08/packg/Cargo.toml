@@ -1,0 +1,13 @@
+[package]
+name = "packg"
+version = "0.1.0"
+authors = ["hunainarbani <55339495+hunainarbani@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ha_lib = {path = "ha_lib"}
+# iot_io = {path = "iot_io"}
+iot_io = {path = "/home/hunain/Desktop/GIT/IOT-Q1/class08/iot_io"}
+student = {path = "student"}

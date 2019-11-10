@@ -1,0 +1,1 @@
+/home/hunain/Desktop/GIT/IOT-Q1/class08/packg/target/debug/packg: /home/hunain/Desktop/GIT/IOT-Q1/class08/iot_io/src/lib.rs /home/hunain/Desktop/GIT/IOT-Q1/class08/packg/ha_lib/src/lib.rs /home/hunain/Desktop/GIT/IOT-Q1/class08/packg/src/main.rs /home/hunain/Desktop/GIT/IOT-Q1/class08/packg/student/src/lib.rs

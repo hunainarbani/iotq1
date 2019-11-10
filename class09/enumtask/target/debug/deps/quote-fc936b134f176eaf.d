@@ -1,0 +1,13 @@
+/home/hunain/Desktop/GIT/IOT-Q1/class09/enumtask/target/debug/deps/quote-fc936b134f176eaf.rmeta: /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/lib.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ext.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/format.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ident_fragment.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/to_tokens.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/runtime.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/spanned.rs
+
+/home/hunain/Desktop/GIT/IOT-Q1/class09/enumtask/target/debug/deps/libquote-fc936b134f176eaf.rlib: /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/lib.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ext.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/format.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ident_fragment.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/to_tokens.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/runtime.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/spanned.rs
+
+/home/hunain/Desktop/GIT/IOT-Q1/class09/enumtask/target/debug/deps/quote-fc936b134f176eaf.d: /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/lib.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ext.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/format.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ident_fragment.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/to_tokens.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/runtime.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/spanned.rs
+
+/home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/lib.rs:
+/home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ext.rs:
+/home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/format.rs:
+/home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/ident_fragment.rs:
+/home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/to_tokens.rs:
+/home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/runtime.rs:
+/home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.2/src/spanned.rs:
