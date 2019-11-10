@@ -1,0 +1,12 @@
+/home/hunain/Desktop/IOTQ1/mysql_project/target/debug/deps/num_bigint-95de9af98ee49be5.rmeta: /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/lib.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/macros.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/bigint.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/biguint.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/algorithms.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/monty.rs
+
+/home/hunain/Desktop/IOTQ1/mysql_project/target/debug/deps/libnum_bigint-95de9af98ee49be5.rlib: /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/lib.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/macros.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/bigint.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/biguint.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/algorithms.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/monty.rs
+
+/home/hunain/Desktop/IOTQ1/mysql_project/target/debug/deps/num_bigint-95de9af98ee49be5.d: /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/lib.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/macros.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/bigint.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/biguint.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/algorithms.rs /home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/monty.rs
+
+/home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/lib.rs:
+/home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/macros.rs:
+/home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/bigint.rs:
+/home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/biguint.rs:
+/home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/algorithms.rs:
+/home/hunain/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.3/src/monty.rs:
