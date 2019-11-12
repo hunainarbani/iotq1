@@ -4,7 +4,7 @@ extern crate dblayer;
 fn main() {
     
     loop {
-            println!("Enter Select Operation\n1)Select\n2)Add\n3)Edit\n4)Delete\n5)quit");
+            println!("Enter Select Operation\n1)Select\n2)Add\n3)Edit\n4)Delete\n5)Quit");
             let opt :i8 = read!();
             
             match opt{
